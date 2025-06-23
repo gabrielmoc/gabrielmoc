@@ -99,7 +99,19 @@
 ###
 
 <p align="left">
-  🌐 <strong>Portfólio:</strong> <a href="https://gabrielcavalcanti.netlify.app" target="_blank">gabrielcavalcanti.netlify.app</a><br>
-  📧 <strong>E-mail:</strong> <a href="mailto:gabrielmoc2010@gmail.com">gabrielmoc2010@gmail.com</a><br>
-  💼 <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/gabrielmoc/" target="_blank">linkedin.com/in/gabrielmoc</a>
+  <a href="https://gabrielcavalcanti.netlify.app" target="_blank">
+    <img alt="Portfólio" height="20" src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="mailto:gabrielmoc2010@gmail.com">
+    <img alt="E-mail" height="20" src="https://img.shields.io/badge/E--mail-000?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/gabrielmoc/" target="_blank">
+    <img alt="LinkedIn" height="20" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/gabrielmoc__" target="_blank">
+    <img alt="Instagram" height="20" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/5581982071988" target="_blank">
+    <img alt="WhatsApp" height="20" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
 </p>
