@@ -100,10 +100,10 @@
 
 <p align="left">
   <a href="https://gabrielcavalcanti.netlify.app" target="_blank">
-    <img alt="Portfólio" height="20" src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img alt="Portfólio" height="20" src="https://img.shields.io/badge/Portfólio-4b8bbe?style=for-the-badge&logo=internet-explorer&logoColor=white"/>
   </a>
   <a href="mailto:gabrielmoc2010@gmail.com">
-    <img alt="E-mail" height="20" src="https://img.shields.io/badge/E--mail-000?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img alt="E-mail" height="20" src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/gabrielmoc/" target="_blank">
     <img alt="LinkedIn" height="20" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
