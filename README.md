@@ -103,4 +103,3 @@
   📧 <strong>E-mail:</strong> <a href="mailto:gabrielmoc2010@gmail.com">gabrielmoc2010@gmail.com</a><br>
   💼 <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/gabrielmoc/" target="_blank">linkedin.com/in/gabrielmoc</a>
 </p>
-###
