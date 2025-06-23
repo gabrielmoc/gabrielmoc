@@ -98,6 +98,9 @@
 
 ###
 
-<p align="left">🌐 Portfólio: https://gabrielcavalcanti.netlify.app<br>📧 E-mail: gabrielmoc2010@gmail.com<br>💼 LinkedIn: https://linkedin.com/in/gabrielmoc/</p>
-
+<p align="left">
+  🌐 <strong>Portfólio:</strong> <a href="https://gabrielcavalcanti.netlify.app" target="_blank">gabrielcavalcanti.netlify.app</a><br>
+  📧 <strong>E-mail:</strong> <a href="mailto:gabrielmoc2010@gmail.com">gabrielmoc2010@gmail.com</a><br>
+  💼 <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/gabrielmoc/" target="_blank">linkedin.com/in/gabrielmoc</a>
+</p>
 ###
