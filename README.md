@@ -99,7 +99,7 @@
 ###
 
 <p align="left">
-  <a href="https://gabrielcavalcanti.netlify.app" target="_blank">
+  <a href="https://gabrielcavalcanti.tech" target="_blank">
     <img alt="Portfólio" height="20" src="https://img.shields.io/badge/Portfólio-4b8bbe?style=for-the-badge&logo=internet-explorer&logoColor=white"/>
   </a>
   <a href="mailto:gabrielmoc2010@gmail.com">
