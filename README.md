@@ -50,7 +50,7 @@
 
 ###
 
-<p align="left">- Node.js, Express, NestJS<br>- PostgreSQL, MySQL, MongoDB<br>- JWT, bcrypt, APIs RESTful</p>
+<p align="left">- Node.js, Express, NestJS, Go Lang<br>- PostgreSQL, MySQL, MongoDB<br>- JWT, bcrypt, APIs RESTful</p>
 
 ###
 
@@ -61,6 +61,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="nestjs logo"  />
+  <img width="12" />          
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
